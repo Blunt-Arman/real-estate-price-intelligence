@@ -16,6 +16,7 @@ Buyers, renters, and agents often lack a quick way to sanity-check whether a lis
 - **Apartment rent:** Kaggle apartment rent dataset
 
 *(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)*
+.
 *(https://www.kaggle.com/datasets/plutozehatescoding/apartments-for-rent-classified)*
 
 ## Approach
