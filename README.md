@@ -36,7 +36,6 @@ Buyers, renters, and agents often lack a quick way to sanity-check whether a lis
 
 Ridge regression outperformed other models on the house price dataset, likely due to its regularization handling multicollinearity among features well. Random Forest performed best on the rent dataset, capturing non-linear relationships that a linear model missed.
 
-*(Replace the placeholders above with your actual evaluation numbers — this table is the first thing most recruiters check.)*
 
 ## Tech Stack
 
@@ -45,8 +44,6 @@ Ridge regression outperformed other models on the house price dataset, likely du
 - **Data Handling:** pandas, numpy
 - **Web App:** Streamlit
 - **Model Serialization:** joblib
-
-## Project Structure
 
 - `app.py` — Streamlit application
 - `ridge_house_model.pkl` — Trained Ridge regression model (house prices)
