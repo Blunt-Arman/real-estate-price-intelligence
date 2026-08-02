@@ -15,7 +15,7 @@ Buyers, renters, and agents often lack a quick way to sanity-check whether a lis
 - **House prices:** Kaggle house price dataset (features include overall quality, square footage, bathrooms, etc.)
 - **Apartment rent:** Kaggle apartment rent dataset
 
-*(Add exact dataset names/links here once finalized.)*
+*(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)*
 
 ## Approach
 
