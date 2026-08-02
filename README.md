@@ -56,3 +56,21 @@ Ridge regression outperformed other models on the house price dataset, likely du
 └── README.md
 
 ## Project Structure
+## How to Run Locally
+
+```bash
+git clone https://github.com/Blunt-Arman/real-estate-price-intelligence.git
+cd real-estate-price-intelligence
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Future Improvements
+
+- Add XGBoost / ensemble models for comparison
+- Expand feature set with location-based data
+- Add model explainability (SHAP values) to the app
+
+## Author
+
+**Blunt-Arman** — [GitHub](https://github.com/Blunt-Arman)
