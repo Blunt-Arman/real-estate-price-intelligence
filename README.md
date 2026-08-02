@@ -46,4 +46,13 @@ Ridge regression outperformed other models on the house price dataset, likely du
 - **Web App:** Streamlit
 - **Model Serialization:** joblib
 
+├── app.py # Streamlit application
+├── ridge_house_model.pkl # Trained Ridge regression model (house prices)
+├── rf_rent_model.pkl # Trained Random Forest model (rent)
+├── house_columns.json # Feature schema for house model
+├── rent_columns.json # Feature schema for rent model
+├── requirements.txt # Python dependencies
+├── notebook/ # EDA and model training notebooks
+└── README.md
+
 ## Project Structure
