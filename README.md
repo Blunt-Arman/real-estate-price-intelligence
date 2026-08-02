@@ -18,6 +18,7 @@ Buyers, renters, and agents often lack a quick way to sanity-check whether a lis
 *(https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)*
 .
 *(https://www.kaggle.com/datasets/plutozehatescoding/apartments-for-rent-classified)*
+.
 
 ## Approach
 
@@ -31,8 +32,8 @@ Buyers, renters, and agents often lack a quick way to sanity-check whether a lis
 
 | Target | Best Model | Metric | Score |
 |---|---|---|---|
-| House Sale Price | Ridge Regression | RMSE / R² | *0.9003* |
-| Apartment Rent | Random Forest | RMSE / R² | *0.7681* |
+| House Sale Price | Ridge Regression | RMSE / R² | *0.1364/0.9003* |
+| Apartment Rent | Random Forest | RMSE / R² | *0.2222/0.7681* |
 
 Ridge regression outperformed other models on the house price dataset, likely due to its regularization handling multicollinearity among features well. Random Forest performed best on the rent dataset, capturing non-linear relationships that a linear model missed.
 
